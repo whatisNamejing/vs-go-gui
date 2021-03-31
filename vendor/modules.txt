@@ -20,5 +20,8 @@ github.com/asticode/go-astilectron-bootstrap
 github.com/asticode/go-astilectron-bundler
 # github.com/asticode/go-bindata v1.0.0
 github.com/asticode/go-bindata
+# github.com/go-sql-driver/mysql v1.5.0
+## explicit
+github.com/go-sql-driver/mysql
 # github.com/sam-kamerer/go-plister v1.2.0
 github.com/sam-kamerer/go-plister
